@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreestormDev
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently learning Game Engine Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me freestormdev@gmail.com
 
